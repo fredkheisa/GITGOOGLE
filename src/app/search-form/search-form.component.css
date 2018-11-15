@@ -3,7 +3,7 @@
     background-color:yellowgreen;
 } */
 ::placeholder{
-    color: rgb(235, 0, 0);
+    color: rgb(170, 95, 95);
     font-size: 25px;
     font-family: 'Oleo Script', cursive;
   }
