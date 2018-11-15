@@ -1,8 +1,9 @@
 h1{
     text-align: center;
+    color: white;
 }
 .jumbotron{
-    background-color:rgb(56, 43, 43)}
+    background-color:rgb(83, 67, 67)}
 button{
    align-items: right;
 }
