@@ -14,7 +14,7 @@ button{
 .img{
   width: 220px;
   padding:10px;    
-  border: 5px solid blue;
+  border: 5px solid rgb(218, 218, 218);
 }
 .names{
     color:white;
