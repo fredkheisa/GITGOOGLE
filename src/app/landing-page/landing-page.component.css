@@ -2,7 +2,7 @@ h1{
     text-align: center;
 }
 .jumbotron{
-    background-color:rgb(255, 255, 255)}
+    background-color:rgb(56, 43, 43)}
 button{
    align-items: right;
 }
@@ -20,4 +20,7 @@ button{
 }
 .user{
     color: rgb(255, 255, 255);
+    width: 220px;
+    padding:10px;    
+    border: 5px solid rgb(99, 99, 104);
 }
