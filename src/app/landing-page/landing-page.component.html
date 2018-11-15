@@ -1,3 +1,36 @@
-<p>
-  landing-page works!
-</p>
+<div class="container-fluid">
+  <br>
+  <div class="jumbotron">
+    <h1 class="header">
+
+      <strong>GIT GOOGLE</strong>
+    </h1>
+    <hr>
+    <hr>
+    <hr>
+  </div>
+  <!-- <form action=""> -->
+  <div class="form-group">
+    <app-search-form></app-search-form>
+  </div>
+  <br>
+  <div class='user'>
+    <div class="row">
+      <div class="col-md-2">
+        <p><strong>Name: </strong><br>{{user.name}}</p>
+      </div>
+      <div class="col-md-2">
+        <p><strong>username </strong><br>{{user.login}}</p>
+      </div>
+      <div class="col-md-2">
+        <p><strong>repositories </strong><br>{{user.public_repos}} </p>
+      </div>
+      <div class="col-md-2">
+        <p><strong>folllowers</strong><br>{{user.followers}}</p>
+      </div>
+      <div class="col-md-2">
+        <p><strong>Following </strong><br>{{user.following}}</p>
+      </div>
+    </div>
+  </div>
+</div>
