@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+.jumbotron{
+    background-color:rgb(255, 255, 255)}
+button{
+   align-items: right;
+}
+/* .container-fluid{
+    height:100%; */
+
+/* } */
+.img{
+  width: 220px;
+  padding:10px;    
+  border: 5px solid blue;
+}
+.names{
+    color:white;
+}
+.user{
+    color: rgb(255, 255, 255);
+}
